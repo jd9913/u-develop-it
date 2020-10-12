@@ -1,0 +1,29 @@
+{
+  "name": "u-develop-it_votingapp",
+  "version": "1.0.0",
+  "description": "module project week 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jd9913/u-develop-it.git"
+  },
+  "keywords": [
+    "mysql",
+    "database",
+    "sql"
+  ],
+  "author": "jd9913",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jd9913/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/jd9913/u-develop-it#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.2.5"
+  }
+}
